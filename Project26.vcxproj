@@ -128,14 +128,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="cctype.cpp" />
+    <ClCompile Include="Collect_taxes.cpp" />
     <ClCompile Include="donation.cpp" />
     <ClCompile Include="enterUseful.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="memberTable.cpp" />
+    <ClCompile Include="patrons.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cctype.h" />
+    <ClInclude Include="Collect_taxes.h" />
     <ClInclude Include="donation.h" />
     <ClInclude Include="enterUseful.h" />
+    <ClInclude Include="memberTable.h" />
+    <ClInclude Include="patrons.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

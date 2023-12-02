@@ -27,6 +27,15 @@
     <ClCompile Include="enterUseful.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="memberTable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Collect_taxes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="patrons.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cctype.h">
@@ -36,6 +45,15 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="enterUseful.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="memberTable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Collect_taxes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="patrons.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
